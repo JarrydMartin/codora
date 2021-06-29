@@ -1,0 +1,3 @@
+[submodule "apps/emily-crush"]
+	path = apps/emily-crush
+	url = https://github.com/JarrydMartin/emily-crush.git
